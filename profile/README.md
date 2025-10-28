@@ -1,1 +1,1 @@
-![InTech Banner Logo](https://github.com/TECH-C-InTech/.github/blob/main/images/intech-banner.png)
+![InTech Banner Logo](../images/intech-banner.png)
